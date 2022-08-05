@@ -1,3 +1,2 @@
 Hotmart.csv filter=lfs diff=lfs merge=lfs -text
 segmento.csv filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
