@@ -1,5 +1,7 @@
 # Desafio Técnico Hotmart
 
+<img src='./img/app.png'>
+
 Este projeto contempla a segunda fase do processo seletivo para cientista de dados na Hotmart. O presente projeto analisou os dados referentes a uma amostra de compras feitas na Hotmart em 2016. A apresentação de maneira suscinta encontra-se no arquivo 'Hotmart.pdf'. No que se refere aos códigos de programação, encontra-se em dois principais documentos Desafio.ipynb e ETL.ipynb em linguaguem Python. Para o decorrer deste projeto foram desenvolvidos um Deploy utilizando linguagem Python para rodar o APP feito em Streamlit, basta abrir o documento 'hotmartapp.py' e rodar 'streamlit run hotmartapp.py'
 
 Este projeto foi dividido em dois pontos principais:
